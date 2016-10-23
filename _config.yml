@@ -3,7 +3,7 @@
 # Site settings
 title: Matteo Mariotti
 description: Página personal de Matteo Mariotti
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://matteomariotti" # the base hostname & protocol for your site
 
 # Build settings
