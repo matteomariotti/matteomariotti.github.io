@@ -1,0 +1,99 @@
+.detail {
+  position: relative;
+
+  .detail-header {
+    position: fixed;
+    z-index: 90;
+    height: 58px;
+    width: $viewport-min-width;
+    left: 0;
+    top: 51px;
+    font-size: 15px;
+    padding: 20px 20px;
+    background-color: white;
+
+    .title {
+      font-weight: bold;
+      color: #111111;
+    }
+
+    .subtitle {
+      font-weight: normal;
+      color: #111111;
+    }
+
+    .category {
+      font-weight: normal;
+      color: #999999;
+    }
+
+    .close {
+      display: block;
+      cursor: pointer;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: block;
+      width: 17px;
+      height: 17px;
+      background: url("../images/close.png") 50% 50% no-repeat;
+    }
+  }
+
+  .description {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 58px 20px 0 20px;
+
+    h2,
+    h3 {
+      font-size: 12px;
+      font-weight: bold;
+      line-height: 20px;
+      margin: 0 0 10px 0;
+    }
+
+    a {
+      color: #666;
+      background: url("../images/icon-link.gif") 0 0 no-repeat;
+      padding-left: 17px;
+
+      &:hover {
+        border-bottom: 1px dotted #666;
+      }
+    }
+
+    p {
+      line-height: 20px;
+      margin: 0 0 10px;
+    }
+
+    ul,
+    ol {
+      margin: 0px 0px 15px 0px;
+
+      li {
+        padding: 0 0 2px;
+      }
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .image {
+      width: 100%;
+      margin: 0 0 30px;
+      border: 1px solid #eee;
+
+      .caption {
+        display: block;
+        font-size: 12px;
+        padding: 8px;
+        background-color: #fafafa;
+        color: #666;
+        border-top: 1px solid #eee;
+      }
+    }
+  }
+}

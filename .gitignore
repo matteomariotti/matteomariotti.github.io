@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-metadata
+npm-debug.log
+
+# Ignore OS generated files #
+.DS_Store*
+Thumbs.db
+
+# Ignore hidden folders #
+# This takes care of .tmp, .sass-cache, and many others #
+.*/

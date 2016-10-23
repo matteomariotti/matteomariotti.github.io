@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie ie7 lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie ie8 lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie ie9 lt-ie10"> <![endif]-->
+<!--[if IE 10]>    <html class="no-js ie ie10"><![endif]-->
+<!--[if (gt IE 10)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<title>{% if page.title %}{{ page.title | escape }} {{ page.subtitle | escape }} | {% endif %}{{ site.title | escape }}</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<!-- styles -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gudea" />
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}" />
+</head>
+<body {% if page.type == 'project' or page.type == 'page' %}class="page-detail"{% endif %}>
+  <!-- header -->
+  {% include header.html %}
+  <!-- detail -->
+  {% if page.type == 'project' or page.type == 'page' %}
+    <section class="detail-container">
+      <article class="detail">
+        <div class="detail-header">
+          <h1>
+            <span class="title">{{ page.title }}</span>
+            <span class="subtitle">{{ page.subtitle }}</span>
+            <span class="category"> / {{ page.category }}</span>
+          </h1>
+          <a class="close" title="cerrar" data-behaviour="close-detail"></a>
+        </div>
+        <div class="description">
+          {{ content }}
+        </div>
+      </article>
+    </section>
+  {% else %}
+    <section class="detail-container">
+    </section>
+  {% endif %}
+  <!-- overlay -->
+  <div class="overlay" data-behaviour="close-detail"></div>
+  <!-- projects -->
+  {% include project-list.html %}
+  <!-- scripts -->
+  <script type="text/javascript" src="{{ "/assets/js/vendor/modernizr-custom.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/vendor/jquery-3.1.0.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/vendor/jquery.easing.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/vendor/masonry.pkgd.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/vendor/jquery.scrollTo.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/vendor/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/app.js" | prepend: site.baseurl }}"></script>
+</body>
+</html>

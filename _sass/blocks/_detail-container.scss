@@ -1,0 +1,15 @@
+.detail-container {
+  display: none;
+  position: absolute;
+  z-index: 100;
+  width: $viewport-min-width;
+  background-color: white;
+  top: 51px;
+  left: 0px;
+}
+
+body.page-detail {
+  .detail-container {
+    display: block;
+  }
+}

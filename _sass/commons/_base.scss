@@ -1,0 +1,28 @@
+html {
+  background-color: $default-background-color;
+  font-family: $default-font-family;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: $default-background-color;
+  color: $default-font-color;
+  font-family: $default-font-family;
+  font-size: $default-font-size;
+  min-width: $viewport-min-width;
+}
+
+button,
+input {
+  font-family: $default-font-family;
+}
+
+a,
+button,
+input {
+  outline: none;
+}
+
+img {
+  vertical-align: middle;
+}

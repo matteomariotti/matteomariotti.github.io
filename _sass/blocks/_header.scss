@@ -1,0 +1,51 @@
+.header {
+  display: block;
+  position: fixed;
+  width: 100%;
+  min-width: $viewport-min-width;
+  z-index: 200;
+  left: 0;
+  top: 0;
+  height: 51px;
+  background-color: #111;
+
+  .title {
+    font-family: Gudea, $default-font-family;
+    margin: 12px 0 0 20px;
+    float: left;
+    color: white;
+
+    .logo {
+      font-size: 24px;
+      letter-spacing: .5px;
+      color: white;
+    }
+  }
+
+  nav {
+    ul {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      margin: 0;
+
+      li {
+        display: block;
+        float: left;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 400;
+        border-left: 1px solid #666;
+        padding: 0 10px;
+
+        &:first-child {
+          border-left: none;
+        }
+
+        a {
+          color: #fafafa;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{% assign projects = site.pages | where: 'type', 'project' %}
+{% assign pages = site.pages | where: 'type', 'page' | sort: 'name' %}
+{% assign categories = projects | group_by: 'category' | sort: 'name' %}
+
+<header class="header">
+  <h1 class="title"><a href="{{ site.baseurl }}/" class="logo">{{ site.title | escape }}</a></h1>
+  <nav>
+    <ul>
+    {% for item in categories %}
+      <li><a href="#" data-behaviour="filter" data-category="{{ item.name | slugify }}">{{ item.name }}</a></li>
+    {% endfor %}
+    {% for item in pages %}
+      <li><a href="{{ site.baseurl }}{{ item.url }}" data-behaviour="open-detail">{{ item.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+</header>

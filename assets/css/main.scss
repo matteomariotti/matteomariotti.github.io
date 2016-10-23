@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+//
+$default-font-family: Helvetica, Arial, Verdana, sans-serif;
+$default-font-size: 14px;
+$default-font-color: black;
+$default-background-color: white;
+$default-transition-effect: cubic-bezier(0,.81,.4,1) .4s;
+$viewport-min-width: 840px;
+
+@import 'commons/reset';
+@import 'commons/base';
+@import 'commons/utils';
+
+@import 'blocks/detail-container';
+@import 'blocks/header';
+@import 'blocks/detail';
+@import 'blocks/project-list';
+@import 'blocks/overlay';
