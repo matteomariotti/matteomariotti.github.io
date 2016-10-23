@@ -287,6 +287,8 @@ MM.interface = (function($, undefined){
 
   var _pushState = function(state) {
 
+    if (typeof(window.history.pushState) != 'function') return;
+    
     var url = state.url || "";
     var title = state.title || "Matteo Mariotti";
 
