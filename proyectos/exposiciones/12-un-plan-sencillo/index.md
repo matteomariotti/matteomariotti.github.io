@@ -3,7 +3,7 @@ layout: default
 type: project
 title: Un Plan Sencillo
 subtitle: (2016-2017) exposición individual
-category: Diseño de Exposiciones
+category: Arte
 importance: 11
 ---
 
