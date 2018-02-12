@@ -20,12 +20,8 @@ Con Cipó Company
 - [Reportaje RTVE Galicia](http://www.youtube.com/watch?v=JzLXxRpxEjU)
 - [Reportaje LA CERCA TV](http://www.youtube.com/watch?v=ZAmGgQoVeHo)
 - [Reportaje TELEMADRID](http://www.youtube.com/watch?v=CLNLLw6hqGc&feature=fvst)
-- [Web de la exposición](http://www.exposicionpuertas.org/)
 - [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/puertas/)
 - [Videos presentes en la exposición](http://www.dailymotion.com/playlist/x1euz2_exea_videos-de-la-exposicion-puertas/1#video=xet8ue)
-
-
-
 
 ![](01.jpg)
 Dibujos
