@@ -23,3 +23,6 @@ Estudio para Isabel con el pintor y Fonseca
 
 ![](02.jpg)
 Estudio para la habitación del Papa
+
+![](03.jpg)
+Estudio para la habitación del Papa
