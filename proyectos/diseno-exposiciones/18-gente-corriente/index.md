@@ -14,7 +14,7 @@ Con Cipó Company
 
 - **Promotor**: ONGD de Castilla - La Mancha
 
-- [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/gente-corriente/)
+-[La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/gente-corriente/)
 
 ![](01.jpg)
 Dibujos
