@@ -61,4 +61,4 @@ Box itinerante para AECID, con Cipó Company (2010)
 *Tropicus*, para el Centro Cultural Galileo Galilei de Madrid, con Cipó Company (2009)
 
 ![](19.jpg)
-*Tropicus*, para el Centro Cultural Galileo Galilei de Madrid, con Cipó Company (2009)
+*Tropicus*, para el Centro Cultural Galileo Galilei de Madrid, con Cipó Company (2009).
