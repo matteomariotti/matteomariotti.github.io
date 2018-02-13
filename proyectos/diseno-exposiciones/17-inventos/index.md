@@ -22,7 +22,6 @@ Con Cipó Company
 - [Reportaje en El Mundo](http://www.elmundo.es/baleares/2014/03/27/5333f17c22601d45208b456f.html)
 - [Reportaje en El Periodico](http://www.elperiodico.com/es/noticias/barcelona/inventos-salvan-vidas-2730002)
 - [Video Europapress](http://www.youtube.com/watch?v=5u4oMpr3WOk)
-- [Video en Barcelona Cultura](http://barcelonacultura.bcn.cat/es/cultura-tv/inventos.-ideas-de-cambian-vidas)
 - [Reportaje en Diario Design](http://diariodesign.com/2013/11/inventos-ideas-que-cambian-vidas-una-exposicion-de-obra-social-la-caixa-sobre-el-diseno-mas-solidario/)
 
 

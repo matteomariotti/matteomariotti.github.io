@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Dale cuerda al mundo
 subtitle: (2010) exposición itinerante
@@ -14,7 +14,6 @@ Con Cipó Company
 
 ### Enlaces relacionados
 
-- [Artículo en la web de CRUZ ROJA ESPAÑOLA](http://www.cruzrojamadrid.org/sala_de_prensa/noticias/dale_cuerda_al_muno/)
 - [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/dale-cuerda-al-mundo/)
 
 ![](01.jpg)

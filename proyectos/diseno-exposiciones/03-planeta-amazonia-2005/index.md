@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Planeta Amazonia
 subtitle: (2005-2009) exposición itinerante
@@ -17,10 +17,7 @@ Con Cipó Company
 - [Video resumen de la exposición](http://www.youtube.com/watch?v=XB5H5Vc9bmE)
 - [Reportaje en TELEMADRID](http://www.youtube.com/watch?v=lOZOCkEe0PM)
 - [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/planeta-amazonia/)
-- [Publicación de OSCM](http://www.ibcperu.org/doc/isis/11937.pdf)
 - [Artículo en ES POR MADRID](http://www.espormadrid.es/2009/03/planeta-amazonia-la-selva-virgen-mas.html)
-- [Artículo en UNIVERSALOCEAN](http://www.universalocean.es/exposicion-planeta-amazonia-la-selva-virgen-mas-grandiosa-del-mundo-en-zamora/)
-- [Artículo en la web de la Universidad de Valencia](http://www.uv.es/jardibotanic/cultura/2005/culturacas/exposiciones5.swf)
 
 
 ![](01.jpg)

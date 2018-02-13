@@ -11,6 +11,9 @@ Diseño de Atrezzo
 - **Director**: Alejandro Amenabar
 - **Producción**: Telecinco Cinema y Mod Producciones
 
+- [Ágora en IMDB](http://www.imdb.com/title/tt1186830/)
+- [agoralapelicula](https://www.agoralapelicula.com/)
+
 La película ha ganado, entre otros, el Goya a mejor dirección artística (director artístico Guy Hendrix Dyas)
 
 ![](01.jpg)

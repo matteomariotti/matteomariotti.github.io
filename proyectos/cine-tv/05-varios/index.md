@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Varios de cine y tv
 subtitle:
@@ -8,41 +8,41 @@ category: Cine y TV
 ![](32.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
 
 ![](33.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Video](https://www.youtube.com/watch?v=EDvGWKzlWoI)
 
 ![](34.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Video](https://www.youtube.com/watch?v=K_S6vgT4kiQ)
 
 ![](35.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
 
 ![](36.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Video](https://www.youtube.com/watch?v=yJhEy6u9zJQ)
 
 ![](37.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
 
 ![](38.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Enlace relacionado](http://www.foessa2014.es/informe/material_pedagogico.php)
+[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
 
 ![](39.jpg)
 Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Dirección artística y ejecución gráfica.
-[Enlace relacionado](https://www.youtube.com/watch?v=WlClkgB8Xmg)
+[Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
 
 - ![](01.jpg)
 *Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.

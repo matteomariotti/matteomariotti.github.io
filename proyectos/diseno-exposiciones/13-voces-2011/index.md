@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Voces entre dos orillas
 subtitle: (2011) exposición itinerante
@@ -15,7 +15,6 @@ Con Cipó Company
 
 ### Enlaces relacionados
 
-- [Artículo en la web de HABITAFRICA](http://noticias.habitafrica.org/voces-entre-dos-orillas-en-pinto-fuenlabrada-y-miraflores-de-la-sierra/)
 - [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/voces/)
 - [Reportaje en SERMADRIDNORTE.COM](http://www.youtube.com/watch?v=Cxucc3p1ft4)
 - [Reportaje en MUNDONEGRODIGITAL](http://vimeo.com/31596643)

@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Embrujo de Shanghai
 subtitle: (2002) largometraje
@@ -9,6 +9,9 @@ Coordinación de construcción
 
 - **Director**: Fernando Trueba
 - **Producción**: Andrés Vicente Gomez-Lola Films
+
+- [El embrujo de Shanghai en Youtube](https://www.youtube.com/watch?v=HBNH5_hRQQY)
+- [El embrujo de Shanghai en IMDB](http://www.imdb.com/title/tt0264571/fullcredits?ref_=tt_ov_st_sm)
 
 La película ha ganado, entre otros, el Goya a mejor dirección artística (dirección artística Salvador Parra)
 

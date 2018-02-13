@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: ¡Paren! Aquí vive gente
 subtitle: (2011) exposición itinerante
@@ -15,10 +15,9 @@ Con Cipó Company
 
 ### Enlaces relacionados
 
-- [La exposición en la web de VSF](http://www.aquivivegente.org/)
+- [Reportaje en TVE](https://www.youtube.com/watch?v=No0x1WkEcn8)
 - [Video del Flash Mob](http://www.youtube.com/watch?v=ZgWoO4Kn8YY)
 - [Reportaje en RTVE Andalucía](http://www.youtube.com/watch?v=vqBSAPpf6FI)
-- [Reportaje en RTVE País Vasco](http://www.youtube.com/user/cipocompany?ob=0&feature=results_main)
 - [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/paren-aqui-vive-gente/)
 
 ![](01.jpg)

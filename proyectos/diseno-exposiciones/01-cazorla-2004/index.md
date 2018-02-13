@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Centro Temático de Especies Amenazadas de Cazorla  
 subtitle: (2004)
@@ -15,7 +15,6 @@ Con Cipó Company
 
 ### Enlaces relacionados
 
-- [El centro en la web de la Fundación Gypaetus](http://www.gypaetus.org/contenido/index/seccion/ceteam/view/ceteam)
 - [El centro en la web de Cipó](http://cipocompany.com/portfolios/centro-de-especies-amenazadas-del-parque-natural-de-cazorla/)
 - [Video en *Todo Turismo*](http://www.youtube.com/watch?v=HNBqAM6_pkI)
 

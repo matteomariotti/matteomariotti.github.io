@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Gente Corriente
 subtitle: (2015) exposición itinerante
@@ -10,7 +10,11 @@ Diseño, dirección artística y coordinación de construcción
 
 Con Cipó Company
 
-- **Promotor**: ONGD de Castilla - La Mancha-
+
+
+- **Promotor**: ONGD de Castilla - La Mancha
+
+- [La exposición en la web de CIPÓ](http://cipocompany.com/portfolios/gente-corriente/)
 
 ![](01.jpg)
 Dibujos
