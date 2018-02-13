@@ -39,6 +39,18 @@ La Milla de la Paz (2016). Concurso para Donostia 2016
 ![](15.jpg)
 La Milla de la Paz (2016). Concurso para Donostia 2016
 
+![](20.jpg)
+*UPS come allagare il Palacio de Cibeles...*, AOC F58 Galleria Bruno Lisi, Roma (2017). Exposición individual.
+
+![](21.jpg)
+*UPS come allagare il Palacio de Cibeles...*, AOC F58 Galleria Bruno Lisi, Roma (2017). Exposición individual.
+
+![](22.jpg)
+*UPS come allagare il Palacio de Cibeles...*, AOC F58 Galleria Bruno Lisi, Roma (2017). Exposición individual.
+
+![](23.jpg)
+*UPS come allagare il Palacio de Cibeles...*, AOC F58 Galleria Bruno Lisi, Roma (2017). Exposición individual.
+
 ![](02.jpg)
 *Stazioni e dimore,* Galleria A.A.M, Roma (1997). Exposición colectiva.
 
