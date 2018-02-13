@@ -13,13 +13,13 @@ category: Arte
 *Ciudad de Barcelona con cruz*, bolígrafo sobre papel, 50 x 50. *II Bienal Internacional de Dibujo Josep Amat*, Ayuntamiento de Sant Feliu de Guíxols (2003).
 
 ![](17.jpg)
-*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (1993). Exposición individual.
+*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (2017). Exposición individual.
 
 ![](18.jpg)
-*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (1993). Exposición individual.
+*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (2017). Exposición individual.
 
 ![](19.jpg)
-*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (1993). Exposición individual.
+*UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (2017). Exposición individual.
 
 ![](10.jpg)
 La Milla de la Paz (2016). Concurso para Donostia 2016
