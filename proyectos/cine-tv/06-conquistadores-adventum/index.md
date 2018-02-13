@@ -141,7 +141,7 @@ Estudio para indios canibales
 Estudio para indios canibales
 
 ![](43.jpg)
-Estudio para indios
+Estudio para indios Tainos
 
 ![](44.jpg)
 Estudio para indios
@@ -150,7 +150,7 @@ Estudio para indios
 Estudio para indios
 
 ![](46.jpg)
-Estudio para indios
+Estudio para indigenas filipinos
 
 ![](47.jpg)
 Estudio para indigenas filipinos
