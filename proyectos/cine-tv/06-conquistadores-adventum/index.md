@@ -111,6 +111,8 @@ Estudio para el campamento de Magallanes en Patagonia
 ![](33.jpg)
 Fotogramas de la serie
 
+###Estudios para la caracterización de las tribus
+
 ![](34.jpg)
 Estudio para indio Lucayo
 
