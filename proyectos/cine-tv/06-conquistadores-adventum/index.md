@@ -15,7 +15,7 @@ Dirección de Arte
 ### Enlaces relacionados
 
 - [Conquistadores: *Adventum* en Movistar Plus](http://www.movistarplus.es/cero/conquistadores)
-- [Conquistadores: *Adventum* en Youtube](- [Conquistadores: *Adventum* making off en Youtube](https://www.youtube.com/watch?v=zSEd7WsOuv4&list=PLSXGfg6XHVB56cPpVK0lH_frj28tGJKl6)
+- [Conquistadores: *Adventum* en Youtube](https://www.youtube.com/watch?v=zSEd7WsOuv4&list=PLenwy70vPzhnei5QvFUjU_p-QChoGX_5R)
 - [Conquistadores: *Adventum* making off en Youtube](https://www.youtube.com/watch?v=zSEd7WsOuv4&list=PLSXGfg6XHVB56cPpVK0lH_frj28tGJKl6)
 - [Conquistadores: *Adventum* en IMDB](http://www.imdb.com/title/tt7555582/)
 
