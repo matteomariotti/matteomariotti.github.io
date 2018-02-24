@@ -76,7 +76,7 @@ Foto del decorado de una casa de Barcelona durante la construcción
 Dibujo para la terraza de Chen
 
 ![](21.jpg)
-Dibujo para la terraza del *Catia*
+Dibujo para la terraza del *Cathay*
 
 ![](22.jpg)
 Fotogramas de la película
