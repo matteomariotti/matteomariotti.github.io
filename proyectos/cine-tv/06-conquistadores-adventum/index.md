@@ -86,10 +86,10 @@ Estudio para la cueva de los indios Kuna
 Estudio para el fuerte Natividad
 
 ![](24.jpg)
-Estudio para la puerta del fuerte Natividad
+Estudio para la puerta del fuerte San Sebastian
 
 ![](25.jpg)
-Estudio para el patibulo de de Bernardino de Talavera
+Estudio para el patibulo de Bernardino de Talavera
 
 ![](26.jpg)
 Estudio para el patibulo de Anacaona
