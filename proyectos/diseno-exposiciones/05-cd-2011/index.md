@@ -30,13 +30,13 @@ Indicaciones para el montaje
 Dibujos para las maquetas
 
 ![](04.jpg)
-Foto del montaje (foto de ONGAWA)
+Foto de la instalación (foto de ONGAWA)
 
 ![](05.jpg)
-Foto del montaje (foto de ONGAWA)
+Foto de la instalación (foto de ONGAWA)
 
 ![](06.jpg)
-Foto del montaje (foto de ONGAWA)
+Foto de la instalación (foto de ONGAWA)
 
 ![](07.jpg)
 Detalle de una maqueta (foto de Daniel Ubeda)
