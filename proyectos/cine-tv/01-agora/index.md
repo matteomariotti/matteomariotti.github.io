@@ -59,7 +59,7 @@ Dibujo para el decorado del cuartel general del prefecto
 Estudios previos para la maqueta de Davus
 
 ![](15.jpg)
-Dibujo para el decorado de la casa de Davus
+Dibujo para el decorado del habitaculo de Davus
 
 ![](16.jpg)
 Dibujo para la maqueta de Davus
