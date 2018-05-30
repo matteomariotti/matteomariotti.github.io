@@ -28,11 +28,6 @@ VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
 
-![](36.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=yJhEy6u9zJQ)
-
 ![](39.jpg)
 Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Dirección artística y ejecución gráfica.
 [Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
