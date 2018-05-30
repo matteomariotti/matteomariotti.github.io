@@ -5,6 +5,9 @@ title: Varios de cine y tv
 subtitle:
 category: Cine y TV
 ---
+![](40.jpg)
+*Spot TWYP* (2018), Prod. Garage Films. Dirección de Arte.
+
 ![](32.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
@@ -30,21 +33,11 @@ VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
 Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=yJhEy6u9zJQ)
 
-![](37.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
-
-![](38.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
-
 ![](39.jpg)
 Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Dirección artística y ejecución gráfica.
 [Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
 
-- ![](01.jpg)
+![](01.jpg)
 *Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
 
 ![](02.jpg)
