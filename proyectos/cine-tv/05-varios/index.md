@@ -5,8 +5,23 @@ title: Varios de cine y tv
 subtitle:
 category: Cine y TV
 ---
+![](41.jpg)
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+
+![](42.jpg)
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+
+![](43.jpg)
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+
+![](44.jpg)
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+
+![](45.jpg)
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+
 ![](40.jpg)
-*Spot TWYP* (2018), Prod. Garage Films. Dirección de Arte.
+*Spot TWYP ME MONEY* (2018), Prod. Garage Films. Dirección de Arte.
 
 ![](32.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
