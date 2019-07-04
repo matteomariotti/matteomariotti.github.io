@@ -25,22 +25,22 @@ category: Cine y TV
 
 ![](32.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
+Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
 
 ![](33.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
+Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=EDvGWKzlWoI)
 
 ![](34.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
+Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=K_S6vgT4kiQ)
 
 ![](35.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa 2014 (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
+Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
 
 ![](39.jpg)
