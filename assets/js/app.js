@@ -157,7 +157,9 @@ MM.interface = (function($, undefined){
         $content.empty();
         $content.append($loader.find('.detail-container .detail'));
         $content.find('img').each(function(){
-          $(this).attr('src', url+$(this).attr('src'));
+          if ($(this).attr('src').indexOf('/') == -1) {
+            $(this).attr('src', url+$(this).attr('src'));
+          }
         });
         _addCaptionsToImages($content);
         var newState = {
