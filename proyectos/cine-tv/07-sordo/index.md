@@ -128,6 +128,9 @@ La taberna (foto silvia dominguez vidal)
 ![](21c.jpg)
 La taberna (foto silvia dominguez vidal)
 
+![](22a.jpg)
+Dibujo para el establo
+
 ![](22b.jpg)
 El establo (fotograma pelicula)
 
