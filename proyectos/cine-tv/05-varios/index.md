@@ -29,7 +29,7 @@ Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realizac
 [Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
 
 ![](33.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
+VII Informe sobre exclusión y desarrollo social en España, Cáritas y Funda
 Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
 [Video](https://www.youtube.com/watch?v=EDvGWKzlWoI)
 
