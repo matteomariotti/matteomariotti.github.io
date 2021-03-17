@@ -113,9 +113,6 @@ Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Di
 ![](26.jpg)
 *Spot 11888* (2007), Prod. Ovideopub. Dibujos.
 
-![](27.jpg)
-*Spot Movistar* (2006), Prod. Tesauro. Dibujos.
-
 ![](28.jpg)
 *Spot Renault Clio* (2006), Prod. Got Film. Dibujos.
 
