@@ -3,7 +3,7 @@ layout: default
 type: project
 title: B.S.O.
 subtitle: (2021) programa tv
-category: cine-tv
+category: Cine y TV
 importance: 13
 ---
 
