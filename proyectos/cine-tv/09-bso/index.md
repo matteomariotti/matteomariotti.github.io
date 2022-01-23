@@ -12,6 +12,7 @@ Dirección artistica
 
 
 - **Producción**: Caribe Music y Movistar Plus
+- **Dirección**: Emilio Aragón
 - **Capitulos**: Belén Rueda, Raphael, Joaquín, Lolita Flores y Dani Rovira
 
 ### Enlaces relacionados
