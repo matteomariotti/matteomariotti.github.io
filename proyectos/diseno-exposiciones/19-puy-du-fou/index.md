@@ -2,7 +2,7 @@
 layout: default
 type: project
 title: Puy du Fou España - parque temático
-subtitle: Espectaculo *Allende la mar océana* (2020-2021)
+subtitle: Espectaculo Allende la mar océana (2020-2021)
 category: Diseño de Exposiciones
 importance: 8
 ---
@@ -111,22 +111,76 @@ Foto de la sala del murmullo
 Croquis de la sala *luces del horizonte*
 
 ![](30.jpg)
-Detalle del mástil mayor
+Detalle para la sala *luces del horizonte*
 
 ![](31.jpg)
-Detalle del mástil mayor
+Foto de la sala *luces del horizonte*
 
 ![](32.jpg)
-Detalle del mástil mayor
+Croquis para la sala *Mar de Sargazos*
 
 ![](33.jpg)
-Detalle del mástil mayor
+Detalle para la sala *Mar de Sargazos*
 
 ![](34.jpg)
-Detalle del mástil mayor
+Croquis para la sala *Mar de Sargazos*
 
 ![](35.jpg)
-Detalle del mástil mayor
+Foto de la sala *Mar de Sargazos*
 
 ![](36.jpg)
-Detalle del mástil mayor
+Croquis del corredor
+
+![](37.jpg)
+Croquis del corredor
+
+![](38.jpg)
+Foto del corredor
+
+![](39.jpg)
+Foto del corredor
+
+![](40.jpg)
+Croquis de la sala *Ex voto*
+
+![](41.jpg)
+Foto de la sala *Ex voto*
+
+![](42.jpg)
+Croquis de la sala *¡Tierra, tierra!*
+
+![](43.jpg)
+Foto de la sala *¡Tierra, tierra!*
+
+![](44.jpg)
+Foto de la sala *¡Tierra, tierra!*
+
+![](45.jpg)
+Planta del *Nuevo Mundo*
+
+![](46.jpg)
+Alzado de la proa de la Santa Maria
+
+![](47.jpg)
+Construcción de la proa de la Santa Maria
+
+![](48.jpg)
+Montaje de la proa de la Santa Maria
+
+![](49.jpg)
+Croquis para la salida al *Nuevo Mundo*
+
+![](50.jpg)
+Croquis para la salida al *Nuevo Mundo*
+
+![](51.jpg)
+Croquis para la salida al *Nuevo Mundo*
+
+![](52.jpg)
+Foto de la salida al *Nuevo Mundo*
+
+![](53.jpg)
+Foto de la salida al *Nuevo Mundo*
+
+![](54.jpg)
+Diseños de atrezzo
