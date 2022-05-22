@@ -42,40 +42,91 @@ Planos de la popa de la Santa Maria
 Detalles de la popa de la Santa Maria
 
 ![](07.jpg)
-Imagen del montaje
+Foto de la popa de la Santa Maria
 
 ![](08.jpg)
-Imagen del montaje (foto de Marta Bujan)
+Croquis de la entrada de la Santa Maria
 
 ![](09.jpg)
-Imagen del montaje
+Croquis de la entrada de la Santa Maria
 
 ![](10.jpg)
-Imagen del montaje (foto de Marta Bujan)
+Croquis de la entrada de la Santa Maria
 
 ![](11.jpg)
-Imagen del montaje (foto de Marta Bujan)
+Foto de la entrada de la Santa Maria
 
 ![](12.jpg)
-Imagen del montaje
+Croquis del camarote de Colón
 
 ![](13.jpg)
-Imagen del montaje (foto de Marta Bujan)
+Foto del camarote de Colón
 
 ![](14.jpg)
-Imagen del montaje
+Detalle para el camarote de Colón
 
 ![](15.jpg)
-Imagen del montaje
+Croquis de la sala de viveres
 
 ![](16.jpg)
-Puertas del Mundo Posible
+Foto de la sala de viveres
 
 ![](17.jpg)
-Detalle
+Croquis de la sala del diario de a bordo
 
 ![](18.jpg)
-Detalle (foto de Marta Bujan)
+Croquis de la sala del diario de a bordo
 
 ![](19.jpg)
-Carteles y exposición en Benalmádena
+Detalle del mástil mayor
+
+![](20.jpg)
+Croquis del mástil mayor
+
+![](21.jpg)
+Foto de la sala del diario de a bordo
+
+![](22.jpg)
+Foto de la sala del diario de a bordo
+
+![](23.jpg)
+Croquis de la sala del murmullo
+
+![](24.jpg)
+Croquis de la sala del murmullo
+
+![](25.jpg)
+Croquis de la sala del murmullo
+
+![](26.jpg)
+Detalle de las mensulas
+
+![](27.jpg)
+Foto de la sala del murmullo
+
+![](28.jpg)
+Foto de la sala del murmullo
+
+![](29.jpg)
+Croquis de la sala *luces del horizonte*
+
+![](30.jpg)
+Detalle del mástil mayor
+
+![](31.jpg)
+Detalle del mástil mayor
+
+![](32.jpg)
+Detalle del mástil mayor
+
+![](33.jpg)
+Detalle del mástil mayor
+
+![](34.jpg)
+Detalle del mástil mayor
+
+![](35.jpg)
+Detalle del mástil mayor
+
+![](36.jpg)
+Detalle del mástil mayor
