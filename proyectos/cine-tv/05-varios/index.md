@@ -54,16 +54,34 @@ Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Di
 *Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
 
 ![](03.jpg)
-*Crimen ferpecto* (2003), largometraje de Alex de la Iglesia. Ayudante de decoración.
+*Crimen ferpecto* (2003), largometraje de Alex de la Iglesia. Ayudante de decoración. Dirección de Arte: Arri y Biaffra.
 
 ![](04.jpg)
-
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
 
 ![](05.jpg)
-*La Culpa* (2005), largometraje di Chicho Ibáñez Serrador. Dibujos.
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
 
 ![](06.jpg)
-*Spot Bancaja* (2009), Prod. Got Film. Coordinación de construcción.
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
 
-![](31.jpg)
-Fotogramas
+![](07.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](08.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](09.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](10.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](11.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](12.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+
+![](13.jpg)
+*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
