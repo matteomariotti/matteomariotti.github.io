@@ -57,7 +57,7 @@ Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Di
 *Crimen ferpecto* (2003), largometraje de Alex de la Iglesia. Ayudante de decoración.
 
 ![](04.jpg)
-*La Culpa* (2005), largometraje di Chicho Ibáñez Serrador. Dibujos.
+
 
 ![](05.jpg)
 *La Culpa* (2005), largometraje di Chicho Ibáñez Serrador. Dibujos.
