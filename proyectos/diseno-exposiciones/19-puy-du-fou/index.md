@@ -1,9 +1,9 @@
 ---
 layout: default
 type: project
-title: Puy du Fou España - Espectaculo Allende la mar océana
-subtitle: (2020-2021) parque temático
-category: Set designer
+title: Puy du Fou España - parque temático
+subtitle: Espectaculo Allende la mar océana (2020-2021)
+category: Diseño de Exposiciones
 importance: 8
 ---
 
@@ -42,91 +42,91 @@ Planos de la popa de la Santa Maria
 Detalles de la popa de la Santa Maria
 
 ![](07.jpg)
-Fto de la popa de la Santa Maria
+Foto de la popa de la Santa Maria
 
 ![](08.jpg)
-Croquis de la entrada en la Santa Maria
+Croquis de la entrada de la Santa Maria
 
 ![](09.jpg)
-Croquis de la entrada en la Santa Maria
+Croquis de la entrada de la Santa Maria
 
 ![](10.jpg)
-Croquis de la entrada en la Santa Maria
+Croquis de la entrada de la Santa Maria
 
 ![](11.jpg)
-Foto de la entrada en la Santa Maria
+Foto de la entrada de la Santa Maria
 
 ![](12.jpg)
-Croquis del camarote de Cristobal Colón
+Croquis del camarote de Colón
 
 ![](13.jpg)
-Foto del camarote de Cristobal Colón
+Foto del camarote de Colón
 
 ![](14.jpg)
-Croquis detalle del camarote de Cristobal Colón
+Detalle para el camarote de Colón
 
 ![](15.jpg)
-Croquis de la sala "Viveres"
+Croquis de la sala de viveres
 
 ![](16.jpg)
-Foto de la sala "Viveres"
+Foto de la sala de viveres
 
 ![](17.jpg)
-Croquis de las sala "Jornal de a bordo"
+Croquis de la sala del diario de a bordo
 
 ![](18.jpg)
-Croquis de las sala "Jornal de a bordo"
+Croquis de la sala del diario de a bordo
 
 ![](19.jpg)
-Planos del mástil mayor
+Detalle del mástil mayor
 
 ![](20.jpg)
 Croquis del mástil mayor
 
 ![](21.jpg)
-Foto de las sala "Jornal de a bordo"
+Foto de la sala del diario de a bordo
 
 ![](22.jpg)
-Foto de las sala "Jornal de a bordo"
+Foto de la sala del diario de a bordo
 
 ![](23.jpg)
-Croquis de la sala del "murmullo"
+Croquis de la sala del murmullo
 
 ![](24.jpg)
-Croquis de la sala del "murmullo"
+Croquis de la sala del murmullo
 
 ![](25.jpg)
-Croquis de la sala del "murmullo"
+Croquis de la sala del murmullo
 
 ![](26.jpg)
-Croquis de una mensula
+Detalle de las mensulas
 
 ![](27.jpg)
-Foto de la sala del "murmullo"
+Foto de la sala del murmullo
 
 ![](28.jpg)
-Foto de la sala del "murmullo"
+Foto de la sala del murmullo
 
 ![](29.jpg)
-Croquis de la sala "Luces al horizonte"
+Croquis de la sala *luces del horizonte*
 
 ![](30.jpg)
-Croquis de la sala "Luces al horizonte"
+Detalle para la sala *luces del horizonte*
 
 ![](31.jpg)
-Foto de la sala "Luces al horizonte"
+Foto de la sala *luces del horizonte*
 
 ![](32.jpg)
-Croquis de la sala "Sargazos"
+Croquis para la sala *Mar de Sargazos*
 
 ![](33.jpg)
-Planos de la torre grua
+Detalle para la sala *Mar de Sargazos*
 
 ![](34.jpg)
-Croquis de la torre grua
+Croquis para la sala *Mar de Sargazos*
 
 ![](35.jpg)
-Foto de la torre grua
+Foto de la sala *Mar de Sargazos*
 
 ![](36.jpg)
 Croquis del corredor
@@ -141,46 +141,46 @@ Foto del corredor
 Foto del corredor
 
 ![](40.jpg)
-Croquis de la sala "Ex voto"
+Croquis de la sala *Ex voto*
 
 ![](41.jpg)
-Foto de la sala "Ex voto"
+Foto de la sala *Ex voto*
 
 ![](42.jpg)
-Croquis de la sala "¡Tierra, tierra!"
+Croquis de la sala *¡Tierra, tierra!*
 
 ![](43.jpg)
-Foto de la sala "¡Tierra, tierra!"
+Foto de la sala *¡Tierra, tierra!*
 
 ![](44.jpg)
-Foto de la sala "¡Tierra, tierra!"
+Foto de la sala *¡Tierra, tierra!*
 
 ![](45.jpg)
-Planta del "Nuevo Mundo"
+Planta del *Nuevo Mundo*
 
 ![](46.jpg)
-Alzado de la proa en el "Nuevo Mundo"
+Alzado de la proa de la Santa Maria
 
 ![](47.jpg)
-Foto de la construcción de la proa
+Construcción de la proa de la Santa Maria
 
 ![](48.jpg)
-Foto del montaje de la proa
+Montaje de la proa de la Santa Maria
 
 ![](49.jpg)
-Croquis del interior de la proa
+Croquis para la salida al *Nuevo Mundo*
 
 ![](50.jpg)
-Croquis del interior de la proa
+Croquis para la salida al *Nuevo Mundo*
 
 ![](51.jpg)
-Croquis del playa
+Croquis para la salida al *Nuevo Mundo*
 
 ![](52.jpg)
-Foto del interior de la proa
+Foto de la salida al *Nuevo Mundo*
 
 ![](53.jpg)
-Foto de la playa
+Foto de la salida al *Nuevo Mundo*
 
 ![](54.jpg)
-Varios dibujos de atrezzo
+Diseños de atrezzo
