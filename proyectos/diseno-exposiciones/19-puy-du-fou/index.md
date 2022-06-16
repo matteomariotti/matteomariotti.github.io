@@ -84,28 +84,28 @@ Detalle del mástil mayor
 Croquis del mástil mayor
 
 ![](21.jpg)
-Foto de la sala del diario de a bordo
+Foto de la sala del *diario de a bordo*
 
 ![](22.jpg)
-Foto de la sala del diario de a bordo
+Foto de la sala del *diario de a bordo*
 
 ![](23.jpg)
-Croquis de la sala del murmullo
+Croquis de la sala del *murmullo*
 
 ![](24.jpg)
-Croquis de la sala del murmullo
+Croquis de la sala del *murmullo*
 
 ![](25.jpg)
-Croquis de la sala del murmullo
+Croquis de la sala del *murmullo*
 
 ![](26.jpg)
 Detalle de las mensulas
 
 ![](27.jpg)
-Foto de la sala del murmullo
+Foto de la sala del *murmullo*
 
 ![](28.jpg)
-Foto de la sala del murmullo
+Foto de la sala del *murmullo*
 
 ![](29.jpg)
 Croquis de la sala *luces del horizonte*
