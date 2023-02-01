@@ -4,6 +4,7 @@ type: project
 title: Embrujo de Shanghai
 subtitle: (2002) largometraje
 category: Cine y TV
+importance: 8
 ---
 Coordinación de construcción
 

@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: La mala educación  
 subtitle: (2004) largometraje
 category: Cine y TV
+importance: 3
 ---
 Proyecto de forillos
 

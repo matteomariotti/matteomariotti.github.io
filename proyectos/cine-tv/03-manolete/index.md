@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Manolete  
 subtitle: (2006) largometraje
 category: Cine y TV
+importance: 1
 ---
 Dibujos para los decorados
 

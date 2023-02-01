@@ -4,7 +4,7 @@ type: project
 title: Sordo
 subtitle: (2019) largometraje
 category: Cine y TV
-importance: 8
+importance: 9
 ---
 Dirección de Arte con Monica De La Fuente
 
