@@ -37,5 +37,5 @@ Vista de la instalación
 ![](07.jpg)
 Vista de la instalación
 
-![](09.jpg)
+![](09.png)
 Vista de la instalación

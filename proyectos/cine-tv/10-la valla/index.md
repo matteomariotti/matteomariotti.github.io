@@ -48,8 +48,8 @@ Croquis para la cocina del ministro
 ![](13.png)
 Foto de la cocina del ministro
 
-![](14.jpg)
+![](14.png)
 Foto del hall del ministro
 
-![](15.jpg)
+![](15.png)
 Foto del salón del ministro
