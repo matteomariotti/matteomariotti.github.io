@@ -88,7 +88,7 @@ Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Di
 *Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
 
 ![](15.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto del forillo.
+*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
 
 ![](16.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. El forillo.
+*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
