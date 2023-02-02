@@ -45,7 +45,7 @@ Foto del plató
 ![](12.jpg)
 Croquis para la cocina del ministro
 
-![](13.jpg)
+![](13.png)
 Foto de la cocina del ministro
 
 ![](14.jpg)
