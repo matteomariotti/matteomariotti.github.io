@@ -11,6 +11,8 @@ Diseño, dirección artística y coordinación de los montajes
 
 Con Cipó Company
 
+Diseño gráfico de Natalia De la Torre
+
 - **Promotor**: Obra Social *La Caixa*
 - **Lugares**: Caixa Forum de Barcelona, Palma de Mallorca, Madrid, Tarragona, Lleida, Zaragoza y Girona
 

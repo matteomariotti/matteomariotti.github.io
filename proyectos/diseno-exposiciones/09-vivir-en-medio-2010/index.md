@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Vivir en Medio
 subtitle: (2010) exposición itinerante
@@ -9,6 +9,8 @@ category: Diseño de Exposiciones
 Diseño y dirección artística
 
 Con Cipó Company
+
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: Solidaridad Internacional
 - **Lugares**: Casa Encendida en Madrid, Casa de Cultura Villa Mercedes de Unquera (Cantabria), Sala Municipal de Torrejón de Ardoz, Polideportivo Municipal de Lobote (Logroño), Casa de la Cultura de Laviana (Asturias), Casa de la Cultura de Vejer de la Frontera (Cadiz), Universidad de Valladolid, Casa de Cultura de Val de San Vicente (Cantabria), Centro Cultural Blas de Otero en San Sebastián de los Reyes…

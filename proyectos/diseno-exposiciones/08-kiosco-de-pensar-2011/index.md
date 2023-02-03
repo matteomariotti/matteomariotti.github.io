@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Kiosco de pensar
 subtitle: (2011) exposición itinerante
@@ -9,6 +9,8 @@ category: Diseño de Exposiciones
 Diseño y dirección artística
 
 Con Cipó Company
+
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: CIC BATA
 - **Lugares**: Estación de Atocha, Facultad de Ciencias de la Educación de la Universidad de Córdoba,…

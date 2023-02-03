@@ -10,6 +10,8 @@ Diseño, dirección artística de la exposición y de la campaña y coordinació
 
 Con Cipó Company
 
+Diseño gráfico de Natalia De la Torre
+
 - **Promotor**: Veterinarios Sin Fronteras
 - **Lugares**: Alhondiga de Bilbao; Plaza Bonet i Muixí de Barcelona; estaciones de Chamartin en Madrid, Valencia Norte, Maria Zambrano de Malaga, Delicias de Zaragoza, Intermodal de Palma de Mallorca y León
 

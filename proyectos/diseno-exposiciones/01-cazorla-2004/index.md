@@ -10,7 +10,7 @@ Diseño y dirección artística
 
 Con Cipó Company
 
-Diseño grafico Natalia De la Torre
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: Fundación Gypaetus
 - **Lugar**: Fundación Gypaetus, Cazorla (Jaén)

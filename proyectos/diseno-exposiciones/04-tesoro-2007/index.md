@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Tesoro del Sur
 subtitle: (2007) exposición itinerante
@@ -9,6 +9,8 @@ category: Diseño de Exposiciones
 Diseño y dirección artística
 
 Con Cipó Company
+
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: Junta de Andalucía
 - **Lugar**: Primer montaje en el Palacio de los Congresos de Granada

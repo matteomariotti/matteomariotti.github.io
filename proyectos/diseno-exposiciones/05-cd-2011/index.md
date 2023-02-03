@@ -7,6 +7,7 @@ category: Diseño de Exposiciones
 ---
 Diseño y dirección artística de exposición y campaña
 Con Cipó Company
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: ONGAWA
 - **Lugares**: Campus EOI de Madrid, ICAI de Madrid…

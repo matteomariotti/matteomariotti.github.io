@@ -10,6 +10,8 @@ Diseño, dirección artística y coordinación de construcción
 
 Con Cipó Company
 
+Diseño gráfico de Natalia De la Torre
+
 
 
 - **Promotor**: ONGD de Castilla - La Mancha

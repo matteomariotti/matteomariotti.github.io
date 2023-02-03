@@ -8,6 +8,7 @@ category: Diseño de Exposiciones
 
 Diseño y dirección artística
 Con Cipó Company
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: Cruz Roja Española
 - **Lugares**: Facultad de Medicina de la Universidad de Alcalá de Henares, Espacio Pozas 14 en Madrid, Facultad de Ingeniería de la UAM,…

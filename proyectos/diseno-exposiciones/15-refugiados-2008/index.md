@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Refugiados Ambientales
 subtitle: (2008) exposición itinerante
@@ -9,6 +9,8 @@ category: Diseño de Exposiciones
 Diseño y dirección artística
 
 Con Cipó Company
+
+Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: Fundación CEAR
 - **Lugares**: Palacio de Congresos de Madrid, Sala Cero en Sevilla, Centro CulturalFederico García Lorca en Rivas Vaciamadrid, Centro Sociocultural de l’Eliana (Valencia)…

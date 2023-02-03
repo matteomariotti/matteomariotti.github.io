@@ -11,6 +11,8 @@ Diseño, dirección artística y coordinación de los montajes
 
 Con Cipó Company
 
+Diseño gráfico de Natalia De la Torre
+
 - **Promotor**: Plataforma 2015
 - **Lugares**: Palacio de Cibeles de Madrid, Museo de la Evolución Humana de Burgos, Casa das Artes de Vigo, Museo de la Merced en Ciudad Real, Sala San Marcos en Toledo, Museo de Jaén, Centro de Exposiciones de Benalmadena (Malaga), Sala del Ayuntamiento de Rivas Vaciamadrid, Sala Caja Sur de Cordoba, recinto ferial La Hipica de Cuenca, Torre Caja Guadalajara; centros culturales Buro Vallejo de Alcorcón (Madrid), Can Massallera en Sant Boi (Barcelona), CCM San Prudencio de Talavera de la Reina, Obra Social de Caja Castilla La Mancha en Albacete
 

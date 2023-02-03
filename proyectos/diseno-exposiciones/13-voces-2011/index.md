@@ -10,6 +10,8 @@ Diseño y dirección artística
 
 Con Cipó Company
 
+Diseño gráfico de Natalia De la Torre
+
 - **Promotor**: Habitafrica
 - **Lugares**: Museo del traje de Madrid, teatro Francisco Rabal de Pinto, Sala del Ayuntamiento de Fuenlabrada, Casa de la Cultura de Miraflores de la Sierra, Centro Cultural Pablo Iglesias de Alcobendas, Espacio Cultural Volturno en Pozuelo de Alarcón…
 
