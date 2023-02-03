@@ -32,10 +32,10 @@ El puente estallido (fotograma pelicula)
 ![](02a.jpg)
 Dibujo para el puente estallido
 
-![](03.jpg)
+![](03.png)
 Dibujo para los escombros del puente
 
-![](04a.jpg)
+![](04a.png)
 Dibujo para el puente
 
 ![](04b.jpg)
@@ -128,7 +128,7 @@ La taberna (foto silvia dominguez vidal)
 ![](21c.jpg)
 La taberna (foto silvia dominguez vidal)
 
-![](22a.jpg)
+![](22a.png)
 Dibujo para el establo
 
 ![](22b.jpg)
