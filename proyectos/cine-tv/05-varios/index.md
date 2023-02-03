@@ -7,19 +7,19 @@ category: Cine y TV
 importance: 9
 ---
 ![](41.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
 
 ![](42.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
 
 ![](43.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
 
 ![](44.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
 
 ![](45.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Diseño del barco.
+*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films; Diseño del barco. Diseño grafico del cartel: Barfutura; Fotografía del cartel: Manolo Pavón.
 
 ![](40.jpg)
 *Spot TWYP ME MONEY* (2018), Prod. Garage Films. Dirección de Arte.

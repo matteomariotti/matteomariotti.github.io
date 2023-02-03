@@ -1,12 +1,12 @@
 ---
-layout: default 
+layout: default
 type: project
 title: La Europa de la ciudadania
 subtitle: (2010) exposición itinerante
 category: Diseño de Exposiciones
 ---
 
-Diseño y dirección artística
+Dirección artística; Diseño con Natalia De la Torre.
 
 Con Cipó Company
 
