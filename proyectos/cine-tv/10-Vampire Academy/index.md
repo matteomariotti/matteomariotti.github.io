@@ -22,10 +22,10 @@ Dibujos
 Croquis para el diván del feeding room (diseño con P. Revuelta y C. Méndez)
 
 ![](02.jpg)
-Diseño del diván del feeding room (diseño con P. Revuelta y C. Méndez)
+Diseño del diván del feeding room (con P. Revuelta y C. Méndez)
 
 ![](03.jpg)
-Diseño del diván del feeding room (diseño con P. Revuelta y C. Méndez)
+Diseño del diván del feeding room (con P. Revuelta y C. Méndez)
 
 ![](07.jpg)
 El diván del feeding room (diseño con P. Revuelta y C. Méndez)
