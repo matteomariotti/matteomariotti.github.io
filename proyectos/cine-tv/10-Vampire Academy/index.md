@@ -67,7 +67,7 @@ Realización del mural del Night Club
 El Night Club
 
 ![](30.jpg)
-Croquis para los tronos
+Estudio para los tronos
 
 ![](31.jpg)
 Diseño de los tronos
