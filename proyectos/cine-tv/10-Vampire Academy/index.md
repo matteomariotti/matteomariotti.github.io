@@ -63,7 +63,7 @@ Realización del mural del Night Club
 ![](27.jpg)
 Realización del mural del Night Club
 
-![](28.jpg)
+![](28.png)
 El Night Club
 
 ![](30.jpg)
@@ -129,7 +129,7 @@ Diseño del reclinatorio del tribunal
 ![](57.jpg)
 El reclinatorio del tribunal
 
-![](58.jpg)
+![](58.png)
 El tribunal
 
 ![](59.jpg)
@@ -162,7 +162,7 @@ Dibujo para la suite de Sonia
 ![](69.jpg)
 Diseño de la bañera de la suite de Sonia
 
-![](70.jpg)
+![](70.png)
 La bañera de la suite de Sonia
 
 ![](71.jpg)
@@ -246,7 +246,7 @@ La trastienda de la tienda de drogas
 ![](112.jpg)
 Diseño de un mueble para cocktail party
 
-![](113.jpg)
+![](113.png)
 Mueble para cocktail party
 
 ![](114.jpg)
