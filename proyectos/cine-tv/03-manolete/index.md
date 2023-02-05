@@ -29,14 +29,8 @@ Dibujo para el decorado del Hotel Victoria
 ![](06.jpg)
 Dibujo para el decorado del burdel
 
-![](07.jpg)
-Dibujo para el decorado de la casa de Lupe
-
 ![](08.jpg)
 Dibujo para el decorado de la enfermería grande
 
 ![](09.jpg)
 Dibujo para el decorado de la enfermería de Linares
-
-![](10.jpg)
-Fotogramas de la película

@@ -78,6 +78,3 @@ Dibujo para la terraza de Chen
 
 ![](21.jpg)
 Dibujo para la terraza del *Cathay*
-
-![](22.jpg)
-Fotogramas de la película

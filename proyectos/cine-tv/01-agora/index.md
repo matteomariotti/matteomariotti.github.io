@@ -63,6 +63,3 @@ Dibujo para el decorado del habitaculo de Davus
 
 ![](16.jpg)
 Dibujo para la maqueta de Davus
-
-![](17.jpg)
-Fotogramas de la película
