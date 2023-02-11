@@ -96,6 +96,9 @@ Fotograma del programa de Belén Rueda
 ![](24.jpg)
 Fotograma del programa de Belén Rueda
 
+![](24a.jpg)
+Backstage
+
 ![](25.jpg)
 Fotograma del programa de Belén Rueda
 

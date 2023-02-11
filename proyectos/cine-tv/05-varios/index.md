@@ -45,7 +45,7 @@ Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realizac
 [Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
 
 ![](39.jpg)
-Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Comp Dirección artística y ejecución gráfica.
+Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Company; Dirección artística y ejecución gráfica.
 [Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
 
 ![](01.jpg)
