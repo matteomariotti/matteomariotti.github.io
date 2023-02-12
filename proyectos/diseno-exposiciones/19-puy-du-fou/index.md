@@ -1,8 +1,9 @@
 ---
 layout: default
 type: project
-title: Puy du Fou España - parque temático
-subtitle: Espectaculo Allende la mar océana (2020-2021)
+title: Puy du Fou España
+subtitle: Parque temático en Toledo
+Espectaculo Allende la mar océana (2020-2021)
 category: Diseño de Exposiciones
 importance: 8
 ---
