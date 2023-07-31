@@ -28,28 +28,28 @@ Dirección de Arte
 Dibujos
 
 ![](02.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](03.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](04.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](05.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](06.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](07.jpg)
-Dibujo para los cubos
+Estudio para los cubos
 
 ![](08.jpg)
-Dibujo para cubos y backstage
+Estudio para cubos y backstage
 
 ![](09.jpg)
-Dibujo para el backstage
+Estudio para el backstage
 
 ![](10.jpg)
 Dibujo para el programa de Belén Rueda
