@@ -7,7 +7,7 @@ category: Cine y TV
 importance: 13
 ---
 
-Dirección artistica
+Dirección de Arte
 
 
 
