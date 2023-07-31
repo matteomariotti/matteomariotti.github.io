@@ -7,10 +7,13 @@ category: Arte
 ---
 
 ![](16.jpg)
-*Un día de marzo sin más, acuarela*, 45 x 45 cm. *Kultur gegen den faschismus*, Galería de la Sociedad Alemana para la Protección de los Derechos Civiles y la Dignidad Humana, Berlin (2015). Exposición colectiva.
+*Un día de marzo sin más*, acuarela, 45 x 45 cm. *Kultur gegen den faschismus*, Galería de la Sociedad Alemana para la Protección de los Derechos Civiles y la Dignidad Humana, Berlin (2015). Exposición colectiva.
 
 ![](01.jpg)
 *Ciudad de Barcelona con cruz*, bolígrafo sobre papel, 50 x 50. *II Bienal Internacional de Dibujo Josep Amat*, Ayuntamiento de Sant Feliu de Guíxols (2003).
+
+![](24.jpg)
+*Occupazione*, boligrafo sobre papel.*Immaginarii*, Gallería Gaspare De Fiore, Genova (2023). Exposición colectiva.
 
 ![](17.jpg)
 *UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (2017). Exposición individual.
