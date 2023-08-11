@@ -13,7 +13,7 @@ category: Arte
 *Ciudad de Barcelona con cruz*, bolígrafo sobre papel, 50 x 50. *II Bienal Internacional de Dibujo Josep Amat*, Ayuntamiento de Sant Feliu de Guíxols (2003).
 
 ![](24.jpg)
-*Occupazione*, boligrafo sobre papel.*Immaginarii*, Gallería Gaspare De Fiore, Genova (2023). Exposición colectiva.
+*Occupazione*, boligrafo sobre papel. *Immaginarii*, Gallería Gaspare De Fiore, Genova (2023). Exposición colectiva.
 
 ![](17.jpg)
 *UPS SANSE*, sala Martín Chirino, San Sebastian de los Reyes, (2017). Exposición individual.
