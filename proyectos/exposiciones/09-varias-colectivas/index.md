@@ -54,6 +54,9 @@ La Milla de la Paz (2016). Concurso para Donostia 2016
 ![](23.jpg)
 *UPS come allagare il Palacio de Cibeles...*, AOC F58 Galleria Bruno Lisi, Roma (2017). Exposición individual.
 
+![](25.jpg)
+*La capitale a Roma*, Città e arredo urbano 1945-1990. Comisariada por Francesco Moschini. Palazzo delle Esposizioni, Roma (1991). Exposición colectiva.
+
 ![](02.jpg)
 *Stazioni e dimore,* Galleria A.A.M, Roma (1997). Exposición colectiva.
 
