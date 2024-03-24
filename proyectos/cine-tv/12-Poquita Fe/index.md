@@ -78,5 +78,5 @@ Croquis para la entrevista al artista
 ![](20.jpg)
 Set para la entrevista al artista
 
-![](20.jpg)
+![](22.jpg)
 Croquis para la entrevista a Patricio
