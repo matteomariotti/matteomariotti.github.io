@@ -4,7 +4,7 @@ type: project
 title: 'Poquita Fe'
 subtitle: '(2023) serie televisión'
 category: Cine y TV
-importance: 7
+importance: 11
 ---
 
 Dirección de Arte
@@ -77,3 +77,6 @@ Croquis para la entrevista al artista
 
 ![](20.jpg)
 Set para la entrevista al artista
+
+![](21.png)
+Croquis para la entrevista a Patricio
