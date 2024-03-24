@@ -6,15 +6,15 @@ subtitle: (2007) largometraje
 category: Cine y TV
 importance: 7
 ---
-Diseño de Atrezzo
+Set designer
 
-- **Director**: Alejandro Amenabar
+- **Dirección**: Alejandro Amenabar
 - **Producción**: Telecinco Cinema y Mod Producciones
 
 - [Ágora en IMDB](http://www.imdb.com/title/tt1186830/)
 - [agoralapelicula](https://www.agoralapelicula.com/)
 
-La película ha ganado, entre otros, el Goya a mejor dirección artística (director artístico Guy Hendrix Dyas)
+La película ha ganado, entre otros premios, el Goya a mejor dirección artística (Guy Hendrix Dyas)
 
 ![](01.jpg)
 Estudios previos para el decorado de la biblioteca de Alejandría
