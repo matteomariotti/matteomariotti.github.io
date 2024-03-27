@@ -55,7 +55,7 @@ Boceto para la mancha en la terraza de la madre
 La mancha en la terraza de la madre
 
 ![](13.jpg)
-Los mantecados
+Los mantecados (diseño gráfico de Natalia de la Torre)
 
 ![](14.jpg)
 La casa de Pilar
