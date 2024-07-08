@@ -6,9 +6,6 @@ subtitle:
 category: Diseño de Exposiciones
 ---
 
-![](01.jpg)
-Instalación para la plaza Augusto Imperatore en Roma, con TER.RE. (1999)
-
 ![](02.jpg)
 Proyecto Peutinger, para Roma, con TER.RE. (1999-2001)
 
