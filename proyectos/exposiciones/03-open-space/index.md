@@ -10,9 +10,6 @@ category: Arte
 
 La exposición muestra un proyecto (ya presentado en la tesis de fin de carrera) de recuperación de áreas de la periferia y del centro de Roma.
 
-![](01.jpg)
-*Roma*, técnica mixta, 40 x 40
-
 ![](02.jpg)
 *Intervención en los márgenes de la via Appia*, bolígrafo sobre papel, 100 x 50
 
@@ -27,6 +24,3 @@ La exposición muestra un proyecto (ya presentado en la tesis de fin de carrera)
 
 ![](06.jpg)
 *Intervención en los cuarteles de viale delle Milizie*, tecnica mixta, 14 x 40
-
-![](07.jpg)
-Maqueta de las intervenciones de la zona este, barro y madera, 50 x 100 x 10
