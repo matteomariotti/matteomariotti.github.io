@@ -1,7 +1,7 @@
 ---
 layout: default
 type: project
-title: REHABILITACIÓN URBANÍSTICA
+title: Rehabilitación Urbanística
 subtitle:
 category: Arte
 importance: 31
