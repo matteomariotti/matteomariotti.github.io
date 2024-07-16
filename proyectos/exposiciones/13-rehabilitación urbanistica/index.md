@@ -12,38 +12,34 @@ Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. 
 
 ![](2.jpg)
 *Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
-Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista basilica.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista plaza.
 
 ![](3.jpg)
 *Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista zona obelisco.
 
 ![](4.jpg)
-*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
+*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano, Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista zona Escalera Santa.
 
 ![](5.jpg)
-*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme,Roma* (1999). Ejecutado.
+*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme, Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Planimetría.
 
 ![](6.jpg)
-*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme,Roma* (1999). Ejecutado.
+*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme, Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Detalle plaza.
 
-![](32.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
+![](7.jpg)
+*Proyecto de infraestructuras para el area de Tor Cervara, Roma* (1997). PFC. Maqueta en barro.
 
-![](33.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Cáritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=EDvGWKzlWoI)
+![](8.jpg)
+*Proyecto de infraestructuras para el area de Tor Cervara, Roma* (1997). PFC. Vista de un centro polideportivo y ferrocarril.
 
-![](34.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=K_S6vgT4kiQ)
+
+![](9.jpg)
+*Proyecto de infraestructuras para el area de Tor Cervara, Roma* (1997). PFC. Vista general.
+
 
 ![](35.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
