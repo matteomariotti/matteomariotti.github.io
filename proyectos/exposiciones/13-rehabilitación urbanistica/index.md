@@ -42,53 +42,13 @@ Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. 
 
 
 ![](10.jpg)
-*Proyecto de rehabilitación urbanistica y edilicia del “Borgo Serrone”. Sant'Arsenio, Salerno, Italia* (1998). Con Roberto Mariotti (GRAU) , STEC y Danilo Novelli
-
-![](39.jpg)
-Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Company; Dirección artística y ejecución gráfica.
-[Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
-
-![](01.jpg)
-*Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
-
-![](02.jpg)
-*Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
-
-![](03.jpg)
-*Crimen ferpecto* (2003), largometraje de Alex de la Iglesia. Ayudante de decoración. Dirección de Arte: Arri y Biaffra.
-
-![](04.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](05.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](06.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](07.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](08.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](09.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](10.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+*Proyecto de rehabilitación urbanistica y edilicia del “Borgo Serrone”. Sant'Arsenio, Salerno, Italia* (1998). Con Roberto Mariotti (GRAU) , STEC y Danilo Novelli. Planimetría.
 
 ![](11.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](12.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](13.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+*Proyecto de rehabilitación urbanistica y edilicia del “Borgo Serrone”. Sant'Arsenio, Salerno, Italia* (1998). Con Roberto Mariotti (GRAU) , STEC y Danilo Novelli. Planimetría y secciones de las calles.
 
 ![](15.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
+*Programa de rehabilitación urbanística del Casco Antiguo de Camerino, Macerata, Italia* (1998). Con Roberto Mariotti (GRAU), Francesco Montuori (GRAU) y STEC. Secciones de las calles.
 
-![](16.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
+![](17.jpg)
+*Proyecto piloto por el desarrollo rural y turístico de la Comunitá Montana dell'Alto Basento, Potenza, Italia* (1998). Con Roberto Mariotti (GRAU) y STEC.
