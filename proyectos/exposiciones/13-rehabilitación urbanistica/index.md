@@ -7,23 +7,28 @@ category: Arte
 importance: 31
 ---
 ![](1.jpg)
-*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma.* (1999)
-con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Planimetría.
+*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Planimetría.
 
-![](42.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](2.jpg)
+*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista basilica.
 
-![](43.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](3.jpg)
+*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista zona obelisco.
 
-![](44.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](4.jpg)
+*Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista zona Escalera Santa.
 
-![](45.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films; Diseño del barco. Diseño grafico del cartel: Barfutura; Fotografía del cartel: Manolo Pavón.
+![](5.jpg)
+*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Planimetría.
 
-![](40.jpg)
-*Spot TWYP ME MONEY* (2018), Prod. Garage Films. Dirección de Arte.
+![](6.jpg)
+*Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme,Roma* (1999). Ejecutado.
+Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Detalle plaza.
 
 ![](32.jpg)
 VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
