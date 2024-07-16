@@ -1,7 +1,7 @@
 ---
 layout: default
 type: project
-title: REHABILITACIÓN URBANISTICA
+title: REHABILITACIÓN URBANÍSTICA
 subtitle:
 category: Arte
 importance: 31
@@ -41,10 +41,8 @@ Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. 
 *Proyecto de infraestructuras para el area de Tor Cervara, Roma* (1997). PFC. Vista general.
 
 
-![](35.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
+![](10.jpg)
+*Proyecto de rehabilitación urbanistica y edilicia del “Borgo Serrone”. Sant'Arsenio, Salerno, Italia* (1998). Con Roberto Mariotti (GRAU) , STEC y Danilo Novelli
 
 ![](39.jpg)
 Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Company; Dirección artística y ejecución gráfica.
