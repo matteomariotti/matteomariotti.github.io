@@ -48,13 +48,13 @@ Con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU).
 *Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Secciones.
 
 ![](17.jpg)
-*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Detalle.
+*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Detalles.
 
 ![](18.jpg)
-*Concurso Internacional por la Ampliación de la Galería d'Arte Moderna y Contemporanea – Ex Fabrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
+*Concurso Internacional por la Ampliación de la Galleria d'Arte Moderna e Contemporanea – Ex Fabbrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
 
 ![](19.jpg)
-*Concurso Internacional por la Ampliación de la Galería d'Arte Moderna y Contemporanea – Ex Fabrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
+*Concurso Internacional por la Ampliación de la Galleria d'Arte Moderna e Contemporanea – Ex Fabbrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
 
 ![](20.jpg)
 *Proyecto para el Palacio del Hielo y Centro Polideportivo de Biella, Italia* (1995). Con Roberto Mariotti (GRAU) y STEC.
