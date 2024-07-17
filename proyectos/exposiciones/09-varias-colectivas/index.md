@@ -4,6 +4,7 @@ type: project
 title: Varias colectivas
 subtitle:
 category: Arte
+importance: 3
 ---
 
 ![](16.jpg)

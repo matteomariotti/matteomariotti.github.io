@@ -4,6 +4,7 @@ type: project
 title: Terre d’Italia  
 subtitle: (2011) exposición didactica
 category: Arte
+importance: 3
 ---
 
 - **Lugar**: Istituto italiano di cultura de Madrid, Facultad de Letras de la Universidad Autónoma de Madrid y Facultad de Letras de la Universidad de Cáceres.

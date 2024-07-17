@@ -4,6 +4,7 @@ type: project
 title: On open spaces and on signs  
 subtitle: (1997) exposición individual
 category: Arte
+importance: 7
 ---
 
 - **Lugar**: Gallery of Penn State University, Roma

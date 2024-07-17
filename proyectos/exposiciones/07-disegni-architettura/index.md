@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Disegni di architettura italiana dal dopoguerra a oggi  
 subtitle: (2002) exposición colectiva
 category: Arte
+importance: 4
 ---
 
 - **Lugar**: Scuderie Medicee, Poggio a Caiano,Firenze

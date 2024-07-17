@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Sat  
 subtitle: (1999) beca
 category: Arte
+importance: 4
 ---
 
 - **Lugar**: Escuela Técnica Superior de Arquitectura de la Universidad Politécnica de Madrid

@@ -4,7 +4,7 @@ type: project
 title: Rehabilitación Urbanística
 subtitle:
 category: Arte
-importance: 10
+importance: 3
 ---
 ![](1.jpg)
 *Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano,Roma* (1999). Ejecutado.

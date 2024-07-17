@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Segno, Disegno e Progetto nell’architettura italiana del dopoguerra  
 subtitle: (2002) exposición colectiva
 category: Arte
+importance: 6
 ---
 
 - **Lugar**: Hangang Gallery, Seoul, Corea del sur

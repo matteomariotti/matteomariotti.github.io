@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Quando arrivi, chiama  
 subtitle: (2003) exposición individual
 category: Arte
+importance: 8
 ---
 
 - **Lugar**: galería AOC Flaminia 58, Roma

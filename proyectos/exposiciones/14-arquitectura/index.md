@@ -4,15 +4,15 @@ type: project
 title: Arquitectura
 subtitle:
 category: Arte
-importance: 11
+importance: 5
 ---
 ![](1.jpg)
-*Concurso City Northern Style Housing. Aomori, Japón* (2001).2001
-con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU). Vista.
+*Concurso City Northern Style Housing. Aomori, Japón* (2001).
+Con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU).
 
 ![](2.jpg)
-*Concurso City Northern Style Housing. Aomori, Japón* (2001).2001
-con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU). Vista.
+*Concurso City Northern Style Housing. Aomori, Japón* (2001).
+Con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU).
 
 ![](43.jpg)
 *La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.

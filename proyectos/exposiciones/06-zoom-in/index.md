@@ -1,9 +1,10 @@
 ---
-layout: default 
+layout: default
 type: project
 title: Zoom-in zoom-out  
 subtitle: (1997) exposición conjunta
 category: Arte
+importance: 4
 ---
 
 - **Lugar**: Galería AOC Flaminia 58, Roma.
