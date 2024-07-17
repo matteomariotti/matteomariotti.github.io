@@ -14,83 +14,83 @@ Con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU).
 *Concurso City Northern Style Housing. Aomori, Japón* (2001).
 Con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU).
 
-![](43.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](4.jpg)
+*Proyecto de 18 chalet adosados en San Martin de la Vega, Madrid* (2000). Con TER.RE. Ejecutado.
 
-![](44.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](5.jpg)
+*Proyecto de 18 chalet adosados en San Martin de la Vega, Madrid* (2000). Con TER.RE. Ejecutado.
 
-![](45.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films; Diseño del barco. Diseño grafico del cartel: Barfutura; Fotografía del cartel: Manolo Pavón.
+![](6.jpg)
+*Proyecto de 18 chalet adosados en San Martin de la Vega, Madrid* (2000). Con TER.RE. Ejecutado.
 
-![](40.jpg)
-*Spot TWYP ME MONEY* (2018), Prod. Garage Films. Dirección de Arte.
+![](8.jpg)
+*Proyecto de la imagen exterior de la obra del Ara Pacis en ocasión del Jubileo 2000. Roma* (1999). Con TER.RE. Planimetría.
 
-![](32.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Videos](https://www.youtube.com/channel/UCZ7PynCkyqbWPFZrMquXTxA)
-
-![](33.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Cáritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=EDvGWKzlWoI)
-
-![](34.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=K_S6vgT4kiQ)
-
-![](35.jpg)
-VII Informe sobre exclusión y desarrollo social en España, Caritas y Funda
-Foessa (2016), seis spots. Prod. Cipó Company. Dirección artística y realización de los fondos pintados.
-[Video](https://www.youtube.com/watch?v=W1CtJVmo1dQ)
-
-![](39.jpg)
-Confederación SALUD MENTAL ESPAÑA (2015), vídeo campaña. Prod. Cipó Company; Dirección artística y ejecución gráfica.
-[Video](https://www.youtube.com/watch?v=WlClkgB8Xmg)
-
-![](01.jpg)
-*Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
-
-![](02.jpg)
-*Veneno* (2008), 4 spots para la Junta de Andalucía. Prod. Avatar. Dirección artistica e ilustraciones.
-
-![](03.jpg)
-*Crimen ferpecto* (2003), largometraje de Alex de la Iglesia. Ayudante de decoración. Dirección de Arte: Arri y Biaffra.
-
-![](04.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](05.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](06.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](07.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](08.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
-
-![](09.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+![](9.jpg)
+*Proyecto de la imagen exterior de la obra del Ara Pacis en ocasión del Jubileo 2000. Roma* (1999). Con TER.RE. Maqueta y sección.
 
 ![](10.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+*Proyecto de la imagen exterior de la obra del Ara Pacis en ocasión del Jubileo 2000. Roma* (1999). Con TER.RE. Detalle sección.
 
 ![](11.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+*Proyecto de la imagen exterior de la obra del Ara Pacis en ocasión del Jubileo 2000. Roma* (1999). Con TER.RE. Maqueta de barro.
 
 ![](12.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+*Proyecto de la imagen exterior de la obra del Ara Pacis en ocasión del Jubileo 2000. Roma* (1999). Con TER.RE.  Maqueta de barro.
 
-![](13.jpg)
-*Lola* (2021), Serie TV dirigida por Israel Del Santo. Prod. 100 Balas y Movistar+. Dibujos para las animaciones.
+![](14.jpg)
+*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Vista general.
 
 ![](15.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
+*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Planta.
 
 ![](16.jpg)
-*La Mala educación* (2004), Largometraje dirigido por Pedro Almodovar. Prod. El Deseo. Proyecto de un forillo.
+*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Secciones.
+
+![](17.jpg)
+*Concurso por la rehabilitación de las acerías Mandelli. Collegno, Torino, Italia* (1999). Con Roberto Mariotti (GRAU). Detalle.
+
+![](18.jpg)
+*Concurso Internacional por la Ampliación de la Galería d'Arte Moderna y Contemporanea – Ex Fabrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
+
+![](19.jpg)
+*Concurso Internacional por la Ampliación de la Galería d'Arte Moderna y Contemporanea – Ex Fabrica Peroni. Roma* (2000). Con TER.RE. y Andrea Sciolari.
+
+![](20.jpg)
+*Proyecto para el Palacio del Hielo y Centro Polideportivo de Biella, Italia* (1995). Con Roberto Mariotti (GRAU) y STEC.
+
+![](22.jpg)
+*Proyecto de rehabilitación de la fabrica de cemento UNICEM. Piacenza, Italia* (1991). Colaboración con Fabio Palmia y Roberto Mariotti (GRAU).
+
+![](23.jpg)
+*Proyecto de rehabilitación de la fabrica de cemento UNICEM. Piacenza, Italia* (1991). Colaboración con Fabio Palmia y Roberto Mariotti (GRAU).
+
+![](24.jpg)
+*Proyecto de rehabilitación de la sede de la Societá Gas Rimini, Italia* (1997).
+
+![](26.jpg)
+*Estudio para un Resort de selva en Manacapurú, Manaus, Brasil* (2007).
+
+![](27.jpg)
+*Estudio para un Resort de selva en Manacapurú, Manaus, Brasil* (2007).
+
+![](28.jpg)
+*Estudio para un Resort de selva en Manacapurú, Manaus, Brasil* (2007).
+
+![](30.jpg)
+*Estudio para la rehabilitación del Convento de Santa Caterina, Ricigliano, Salerno, Italia* (1998).
+
+![](31.jpg)
+*Estudio para la rehabilitación del Convento de Santa Caterina, Ricigliano, Salerno, Italia* (1998). Plantas.
+
+![](32.jpg)
+*Estudio para la rehabilitación del Convento de Santa Caterina, Ricigliano, Salerno, Italia* (1998). Secciones.
+
+![](34.jpg)
+*Proyecto de reforma de la bodega Noceto–Michelotti. Asti, Italia* (2007).
+
+![](35.jpg)
+*Proyecto de reforma de la bodega Noceto–Michelotti. Asti, Italia* (2007).
+
+![](36.jpg)
+*Proyecto de reforma de la bodega Noceto–Michelotti. Asti, Italia* (2007).
