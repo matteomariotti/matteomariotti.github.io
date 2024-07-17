@@ -1,16 +1,18 @@
 ---
 layout: default
 type: project
-title: Varios de cine y tv
+title: Arquitectura
 subtitle:
-category: Cine y TV
-importance: 9
+category: Arte
+importance: 11
 ---
-![](41.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](1.jpg)
+*Concurso City Northern Style Housing. Aomori, Japón* (2001).2001
+con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU). Vista.
 
-![](42.jpg)
-*La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
+![](2.jpg)
+*Concurso City Northern Style Housing. Aomori, Japón* (2001).2001
+con Danilo Novelli, Adolfo Virdis y Roberto Mariotti (GRAU). Vista.
 
 ![](43.jpg)
 *La gran aventura de los Lunnis y el libro magico* (2018), largometraje. Prod. Tandem Films, TVE, Enrique Cerezo P.C., Calendula Films AIE, Pampa Films. Diseño del barco.
