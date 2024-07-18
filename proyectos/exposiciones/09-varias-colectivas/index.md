@@ -1,7 +1,7 @@
 ---
 layout: default
 type: project
-title: Varias colectivas
+title: Exposiciones colectivas y otras
 subtitle:
 category: Arte
 importance: 3
