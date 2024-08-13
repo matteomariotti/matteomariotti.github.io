@@ -22,7 +22,7 @@ Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. 
 *Plan de intervenciones para el Jubileo 2000. Area de San Giovanni in Laterano, Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Vista zona Escalera Santa.
 
-![](5.jpg)
+![](05.jpg)
 *Plan de intervenciones para el Jubileo 2000. Area de Santa Croce in Gerusalemme, Roma* (1999). Ejecutado.
 Con Alessandro Anselmi, Elisabetta Avallone, Gabriele Pierluisi y Fabio Palmia. Planimetría.
 
