@@ -12,7 +12,7 @@ He participado en decenas de exposiciones de arte, individuales y colectivas. Di
 
 He intervenido en más de 30 productos para cine y televisión.
 
-He colaborado con la *Università degli Studi di Roma “La Sapienza”*, con la *Universidad Autónoma de Madrid*, con la *Università degli Studi di Sassari* y con la *Universidad Rey Juan Carlos de Madrid*
+He colaborado con la *Università degli Studi di Roma “La Sapienza”*, con la *Universidad Autónoma de Madrid*, con la *Università degli Studi di Sassari* y con la *Universidad Rey Juan Carlos de Madrid*.
 
 - [Perfil LinkedIn](http://www.linkedin.com/in/matteomariotti)
 - [Perfil Behance](https://www.behance.net/matteomariotti)
