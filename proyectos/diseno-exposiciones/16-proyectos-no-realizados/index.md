@@ -1,7 +1,7 @@
 ---
 layout: default
 type: project
-title: Proyectos no realizados
+title: Proyectos de exposiciones no realizados
 subtitle:
 category: Diseño de Exposiciones
 ---
