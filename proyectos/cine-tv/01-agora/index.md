@@ -28,6 +28,9 @@ Dibujo para el decorado de la biblioteca de Alejandría
 ![](04.jpg)
 Dibujos para el decorado de la biblioteca de Alejandría
 
+![](17.jpg)
+Imagen del set de la biblioteca de Alejandría
+
 ![](05.jpg)
 Estudios previos para el decorado del cuartel general del prefecto
 
