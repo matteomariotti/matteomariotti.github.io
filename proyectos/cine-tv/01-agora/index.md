@@ -29,7 +29,7 @@ Dibujo para el decorado de la biblioteca de Alejandría
 Dibujos para el decorado de la biblioteca de Alejandría
 
 ![](17.jpg)
-Imagen del set de la biblioteca de Alejandría
+Set de la biblioteca de Alejandría
 
 ![](05.jpg)
 Estudios previos para el decorado del cuartel general del prefecto
@@ -58,6 +58,9 @@ Dibujo para el trono del prefecto
 ![](13.jpg)
 Dibujo para el decorado del cuartel general del prefecto
 
+![](18.jpg)
+Set del cuartel general del prefecto
+
 ![](14.jpg)
 Estudios previos para la maqueta de Davus
 
@@ -66,3 +69,9 @@ Dibujo para el decorado del habitaculo de Davus
 
 ![](16.jpg)
 Dibujo para la maqueta de Davus
+
+![](19.jpg)
+Set del habitaculo de Davus con la maqueta
+
+![](20.jpg)
+Set de la clase de Hypatia con la maqueta de Davus/foto Allstar/CINEBISS
