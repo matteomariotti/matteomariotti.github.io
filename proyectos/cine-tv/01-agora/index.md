@@ -71,7 +71,7 @@ Dibujo para el decorado del habitaculo de Davus
 Dibujo para la maqueta de Davus
 
 ![](19.jpg)
-Set del habitaculo de Davus con la maqueta
+Set del habitaculo de Davus con la maqueta / foto Allstar/CINEBISS
 
 ![](20.jpg)
-Set de la clase de Hypatia con la maqueta de Davus/foto Allstar/CINEBISS
+Set de la clase de Hypatia con la maqueta de Davus
