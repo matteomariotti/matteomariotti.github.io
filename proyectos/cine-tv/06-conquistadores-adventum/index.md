@@ -37,7 +37,7 @@ Estudio para la plaza de la decapitación de Nuñez de Balboa
 ![](06.jpg)
 Estudio para un muelle
 
-![](07.jpg)
+![](08.jpg)
 Estudio para el barco del marchante arabe
 
 ![](09.jpg)
