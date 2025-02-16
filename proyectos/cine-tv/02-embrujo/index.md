@@ -68,10 +68,10 @@ Dibujo para el decorado del local *Yellow Sky*
 Foto del decorado del *Yellow Sky* durante el rodaje
 
 ![](18.jpg)
-Dibujo para el decorado de una casa de Barcelona
+Dibujo para una casa de Barcelona
 
 ![](19.jpg)
-Foto del decorado de una casa de Barcelona durante la construcción
+Foto de una casa de Barcelona durante la construcción
 
 ![](20.jpg)
 Dibujo para la terraza de Chen
