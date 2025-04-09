@@ -34,9 +34,6 @@ Foto de escena de la cámara acorazada durante la construcción. Fotografía de 
 ![](07.jpg)
 Foto de escena de la cámara acorazada. Fotografía de Jimena García
 
-![](07b.jpg)
-Dibujo para la iglesia
-
 ![](08.jpg)
 Croquis para un hipotesis previo de la cámara acorazada
 

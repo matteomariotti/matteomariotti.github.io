@@ -28,7 +28,7 @@ Estudio para el muro
 Estudio para el muro
 
 ![](06.jpg)
-Foto del set de la valla
+Fotograma de la valla
 
 ![](07.jpg)
 Dibujo para el Hall del ministro
