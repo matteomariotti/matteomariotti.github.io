@@ -6,7 +6,9 @@ subtitle: (2011) exposición itinerante
 category: Diseño de Exposiciones
 ---
 Diseño y dirección artística de exposición y campaña
+
 Con Cipó Company
+
 Diseño gráfico de Natalia De la Torre
 
 - **Promotor**: ONGAWA
