@@ -4,7 +4,7 @@ type: project
 title: La garita
 subtitle: (2025) programa
 category: Cine y TV
-importance: 7
+importance: 5
 ---
 Dirección de Arte
 
@@ -12,8 +12,11 @@ Dirección de Arte
 - **Producción**: 100 balas, RTVE
 
 
-![](01.jpg)
+![](00.jpg)
 Dibujos
+
+![](01.jpg)
+Planta decorado
 
 ![](02.jpg)
 Croquis
