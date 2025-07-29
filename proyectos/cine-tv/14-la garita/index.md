@@ -4,7 +4,7 @@ type: project
 title: La garita
 subtitle: (2025) programa
 category: Cine y TV
-importance: 5
+importance: 2
 ---
 Dirección de Arte
 
