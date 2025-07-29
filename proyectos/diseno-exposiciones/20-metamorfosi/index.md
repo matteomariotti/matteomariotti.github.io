@@ -2,7 +2,7 @@
 layout: default
 type: project
 title: Metamorfosi
-subtitle: (2024) Exposición personal de Roberto Mariotti en el Museo Nazionale Etrusco di Villa Giulia
+subtitle: (2024) Exposición individual de Roberto Mariotti en el Museo Nazionale Etrusco di Villa Giulia
 category: Diseño de Exposiciones
 importance: 8
 ---
