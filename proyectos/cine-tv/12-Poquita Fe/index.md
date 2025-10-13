@@ -4,7 +4,7 @@ type: project
 title: 'Poquita Fe' 2 temporadas
 subtitle: '(2023-2025) serie televisión'
 category: Cine y TV
-importance: 10
+importance: 09
 ---
 
 Dirección de Arte
@@ -47,7 +47,6 @@ El baño de Tinin
 
 ![](10.jpg)
 Croquis para la escena de las esvásticas
-
 
 ![](12.jpg)
 Salón de Berta y Ramón
