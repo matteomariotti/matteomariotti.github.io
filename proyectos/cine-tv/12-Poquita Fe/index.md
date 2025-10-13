@@ -4,7 +4,7 @@ type: project
 title: 'Poquita Fe' 2 temporadas
 subtitle: '(2023-2025) serie televisión'
 category: Cine y TV
-importance: 09
+importance: 11
 ---
 
 Dirección de Arte
@@ -13,7 +13,6 @@ Dirección de Arte
 
 - **Dirección**: Pepón Montero
 - **Guion**: Juan Maidagán y Pepón Montero
-
 - **Producción**: Buendía Estudios y Movistar+
 
 
