@@ -1,8 +1,8 @@
 ---
 layout: default
 type: project
-title: 'Poquita Fe'
-subtitle: '(2023) serie televisión'
+title: 'Poquita Fe' 2 temporadas
+subtitle: '(2023-2025) serie televisión'
 category: Cine y TV
 importance: 10
 ---
@@ -22,61 +22,89 @@ Dirección de Arte
 Dibujos
 
 ![](02.jpg)
-Salón de Berta y Ramón
+Croquis para el campamento
 
 ![](03.jpg)
-Croquis para el salón de la boda
+El campamento
 
 ![](04.jpg)
-Croquis para el backstage de la boda
+Croquis para el bunker
 
 ![](05.jpg)
-La boda
+El bunker
 
 ![](06.jpg)
-Salón de la cuñada
+Croquis para la entrada del bunker
 
 ![](07.jpg)
-Habitación de la cuñada
+La enrada del bunker
 
 ![](08.jpg)
-La cocina de la cuñada
+El piso compartido
 
 ![](09.jpg)
-Croquis para el trastero del vecino
+El baño de Tinin
 
 ![](10.jpg)
-El trastero del vecino
+Croquis para la escena de las esvásticas
 
-![](11.jpg)
-Boceto para la mancha en la terraza de la madre
 
 ![](12.jpg)
-La mancha en la terraza de la madre
+Salón de Berta y Ramón
 
 ![](13.jpg)
-Los mantecados (diseño gráfico de Natalia de la Torre)
+Croquis para el salón de la boda
 
 ![](14.jpg)
-La casa de Pilar
+Croquis para el backstage de la boda
 
 ![](15.jpg)
-La casa de la tía de Pilar
+La boda
 
 ![](16.jpg)
-Boceto para la casa del artista
+Salón de la cuñada
 
 ![](17.jpg)
-Detalle de la casa del artista
+Habitación de la cuñada
 
 ![](18.jpg)
-Detalle de la casa del artista
+La cocina de la cuñada
 
 ![](19.jpg)
-Croquis para la entrevista al artista
+Croquis para el trastero del vecino
 
 ![](20.jpg)
-Set para la entrevista al artista
+El trastero del vecino
+
+![](21.jpg)
+Boceto para la mancha en la terraza de la madre
 
 ![](22.jpg)
+La mancha en la terraza de la madre
+
+![](23.jpg)
+Los mantecados (diseño gráfico de Natalia de la Torre)
+
+![](24.jpg)
+La casa de Pilar
+
+![](25.jpg)
+La casa de la tía de Pilar
+
+![](26.jpg)
+Boceto para la casa del artista
+
+![](27.jpg)
+Detalle de la casa del artista
+
+![](28.jpg)
+Detalle de la casa del artista
+
+![](29.jpg)
+Croquis para la entrevista al artista
+
+![](30.jpg)
+Set para la entrevista al artista
+
+![](31.jpg)
 Croquis para la entrevista a Patricio
