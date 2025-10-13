@@ -1,8 +1,8 @@
 ---
 layout: default
 type: project
-title: 'Poquita Fe' 2 temporadas
-subtitle: '(2023-2025) serie televisión'
+title: 'Poquita Fe'
+subtitle: '(2023-2025) serie televisión_2 temporadas'
 category: Cine y TV
 importance: 10
 ---
