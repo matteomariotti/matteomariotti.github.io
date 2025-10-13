@@ -45,7 +45,10 @@ El piso compartido
 El baño de Tinin
 
 ![](10.jpg)
-Croquis para la escena de las esvásticas
+Boceto para la escena de las esvásticas
+
+![](11.jpg)
+Trabajo en el set de las esvásticas
 
 ![](12.jpg)
 Salón de Berta y Ramón
