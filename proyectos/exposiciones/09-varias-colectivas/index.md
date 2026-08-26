@@ -37,8 +37,6 @@ La Milla de la Paz (2016). Concurso para Donostia 2016
 ![](13.jpg)
 La Milla de la Paz (2016). Concurso para Donostia 2016
 
-![](14.jpg)
-La Milla de la Paz (2016). Concurso para Donostia 2016
 
 ![](15.jpg)
 La Milla de la Paz (2016). Concurso para Donostia 2016
