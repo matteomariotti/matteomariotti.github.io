@@ -68,7 +68,6 @@ La Milla de la Paz (2016). Concurso para Donostia 2016
 *Atlántida,* orinal, resina y pintura acrílica. *Expowater,* Centro Cultural Aguirre, Cuenca (2005). Exposición colectiva.
 
 ![](05.jpg)
-*Ciudad con piedras,* acrílico sobre madera, 45 x 45. *OPA,* Fundación COAM, Madrid (2002). Exposición colectiva.
 
 ![](06.jpg)
 *Doble Madrid,* impresión digital, 40 x 70. *Showroom-Art II*, Galería Jorge Ontiveros, Madrid (2003). Exposición colectiva.
